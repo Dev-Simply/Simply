@@ -53,13 +53,13 @@ Here are some of the things I work on:
 
 <!-- Optional: GitHub stats -->
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dev-Simply&show_icons=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dev-Simply&show_icons=true&theme=default)
 
 ---
 
 ## 📫 Contact
 
-- GitHub: [https://github.com/Dev-SimplyE](https://github.com/Dev-Simply)
+- GitHub: [https://github.com/Dev-Simply](https://github.com/Dev-Simply)
 
 ---
 
