@@ -18,9 +18,8 @@ I enjoy creating practical software, experimenting with automation, and learning
 ## 🛠️ Technologies & Tools
 
 <!-- You can add logos here -->
-<!-- Example:
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
--->
 
 - **Languages**
   - C#
@@ -53,15 +52,14 @@ Here are some of the things I work on:
 ## 📈 GitHub Stats
 
 <!-- Optional: GitHub stats -->
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
--->
+
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Simply&show_icons=true)
 
 ---
 
 ## 📫 Contact
 
-- GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [https://github.com/Dev-SimplyE](https://github.com/Dev-Simply)
 
 ---
 
