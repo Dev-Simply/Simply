@@ -1,5 +1,4 @@
-# 👋 Hi, I'm [Your Name]
-
+# 👋 Hi, I'm Simply
 I'm a developer mainly focused on **C#**, with experience building desktop applications and small tools.  
 I enjoy creating practical software, experimenting with automation, and learning new technologies.
 
@@ -11,13 +10,11 @@ I enjoy creating practical software, experimenting with automation, and learning
 - 🖥️ Interested in desktop applications (WPF)
 - ⚙️ I also use **Batch** and **Python** when needed
 - 🚀 Always trying to improve my skills and build useful projects
-- 🤖 I sometimes use AI tools to help with logic and problem-solving
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<!-- You can add logos here -->
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
 
@@ -25,23 +22,13 @@ I enjoy creating practical software, experimenting with automation, and learning
   - C#
   - Python
   - Batch
-
-- **Frameworks / Technologies**
-  - .NET
-  - WPF
-
-- **Tools**
-  - Git & GitHub
-  - Visual Studio
-  - Visual Studio Code
-
 ---
 
 ## 📂 Projects
 
 Here are some of the things I work on:
 
-- 🧩 Small desktop applications
+- 💻 Simply Tweaks ( a free/paid utility to optimize pc )
 - 🤖 Automation scripts and tools
 - ⚡ Utility software to solve specific problems
 
@@ -54,12 +41,6 @@ Here are some of the things I work on:
 <!-- Optional: GitHub stats -->
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dev-Simply&show_icons=true&theme=default)
-
----
-
-## 📫 Contact
-
-- GitHub: [https://github.com/Dev-Simply](https://github.com/Dev-Simply)
 
 ---
 
