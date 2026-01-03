@@ -53,7 +53,7 @@ Here are some of the things I work on:
 
 <!-- Optional: GitHub stats -->
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Simply&show_icons=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ---
 
